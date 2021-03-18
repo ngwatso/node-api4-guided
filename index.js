@@ -12,3 +12,8 @@ server.listen(port, () => {
 // ** SET PORT
 // ?? export PORT=4040
 // ?? unset PORT
+
+// ** HEROKU COMMANDS
+// ?? heroku
+// ?? heroku login -i
+// ?? heroku logs -a
