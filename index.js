@@ -16,4 +16,4 @@ server.listen(port, () => {
 // ** HEROKU COMMANDS
 // ?? heroku
 // ?? heroku login -i
-// ?? heroku logs -a
+// ?? heroku logs -a appname --tail
